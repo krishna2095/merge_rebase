@@ -21,9 +21,9 @@ if(5==5):
 
 
 #performing all the logical operations 
-# print (True and True)
-# print (True or False)
-# print (not True)
+print (True and True)
+print (True or False)
+print (not True)
 
 #performing the assignment operations 
 b-=a
