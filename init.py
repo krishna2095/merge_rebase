@@ -24,3 +24,8 @@ if(5==5):
 print (True and True)
 print (True or False)
 print (not True)
+
+#performing the assignment operations 
+b-=a
+a+=b
+print (a,b)
