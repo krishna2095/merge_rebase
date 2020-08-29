@@ -29,3 +29,9 @@ if(5==5):
 b-=a
 a+=b
 print (a,b)
+
+
+#printing the hello world
+
+
+print("hello sai krishna how are you have a wonderful day")
