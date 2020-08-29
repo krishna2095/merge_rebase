@@ -2,6 +2,7 @@ a = 34
 b = 43 
 print(a+b)
 
+<<<<<<< HEAD
 #perfroming the arithmetic operations 
 
 print (a-b)
@@ -19,3 +20,10 @@ if(5==5):
 
 
 
+=======
+
+#performing all the logical operations 
+print (True and True)
+print (True or False)
+print (not True)
+>>>>>>> 843c7c7... performing logical operations
